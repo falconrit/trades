@@ -1,315 +1,312 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", SBT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w860278779.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", SBT GO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", SBT GO
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1278230418_b350000.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Cidadeverde
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", TV Cidadeverde
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Difusora
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", TV Difusora
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", REDE TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", REDE TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Rede Brasil
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", BAND
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", BAND
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", BAND
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", BAND
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", BAND RBA TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", BAND RBA TV
 https://video01.kshost.com.br/rba2779/rba2779/chunklist_w151834704.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD SAO PAULO HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD SAO PAULO HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD SAO PAULO SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD SAO PAULO SD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD GOIAS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD GOIAS HD
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD GOIAS SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD GOIAS SD
 http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Rio Grande do Sul HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Rio Grande do Sul HD
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-b.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Rio Grande do Sul SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Rio Grande do Sul SD
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Brasilia HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Brasilia HD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Brasilia SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Brasilia SD
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Rio de janeiro HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Rio de janeiro HD
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Rio de janeiro SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Rio de janeiro SD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Minas Gerais HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Minas Gerais HD
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Minas Gerais SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Minas Gerais SD
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD BAHIA HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD BAHIA HD
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD BAHIA SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD BAHIA SD
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-b.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Belem HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Belem HD
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD Belem SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", RECORD Belem SD
 http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISNEY Junior
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", DISNEY Junior
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Disney XD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Disney XD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Disney XD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Disney XD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISNEY Channel
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", DISNEY Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISNEY Channel
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", DISNEY Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", DISCOVERY KIDS
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISCOVERY KIDS
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", DISCOVERY KIDS
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Nickelodeon
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Nickelodeon
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Nickelodeon
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Nickelodeon
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FOX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FOX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FOX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FOX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FOX Premium 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FOX Premium 1
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FOX Premium 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FOX Premium 1
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", MTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", MTV
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", MTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", MTV
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b664685_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FOX SPORTS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", FOX SPORTS
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b664685_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", FOX SPORTS
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", ESPN BRASIL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", ESPN BRASIL
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", ESPN BRASIL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", ESPN BRASIL
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", ESPN 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", ESPN 2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", ESPN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", ESPN
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", ESPN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", ESPN EXTRA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", ESPN EXTRA
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&amp;rebase=on
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", SBT GO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", SBT GO
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1278230418_b350000.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Cidadeverde
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", TV Cidadeverde
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Difusora
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", TV Difusora
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Difusora do SUl
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO", TV Difusora do SUl
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1030661937.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 1
 https://d2who1na9t9cqt.cloudfront.net/live/canal_01/playlist-360p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 1
 https://d2who1na9t9cqt.cloudfront.net/live/canal_01/playlist-480p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 1
 https://d2who1na9t9cqt.cloudfront.net/live/canal_01/playlist-720p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 2
 https://d2who1na9t9cqt.cloudfront.net/live/canal_01/playlist-360p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 2
 https://d2who1na9t9cqt.cloudfront.net/live/canal_02/playlist-480p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 2
 https://d2who1na9t9cqt.cloudfront.net/live/canal_02/playlist-720p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 3
 https://d2who1na9t9cqt.cloudfront.net/live/canal_01/playlist-360p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 3
 https://d3sl1boum9v9bt.cloudfront.net/live/canal_03/playlist-480p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 3
 https://d3sl1boum9v9bt.cloudfront.net/live/canal_03/playlist-720p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 4
 https://d3sl1boum9v9bt.cloudfront.net/live/canal_04/playlist-480p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS 4
 https://d3sl1boum9v9bt.cloudfront.net/live/canal_04/playlist-720p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS HD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_1200.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS HD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS HD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS HD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS SD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_800.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS HD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS SD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", EI PLUS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", EI PLUS HD
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", ALL SPORTS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1545719161.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", CULTURA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", CULTURA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", CULTURA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", CULTURA
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1297393765.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", CULTURA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", CULTURA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1973272416.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", CULTURA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", CULTURA
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", e parana
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", e parana
 http://200.189.113.201/hls/tve.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV ZOOM
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", TV ZOOM
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Canal do Boi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", Canal do Boi
 https://5e38d79ac4439.streamlock.net/canaldoboi/live/chunklist_w833435355_tkd293emF0b2tlbmhhc2g9SzEtTnZHQWhLN0hRWnZfWWMxOWpDVmpmS083NVpiYVh2bzBLMU9wdkNLYz0=.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", NOVO TENPO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", NOVO TENPO
 http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b7128000_slpor.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", REDE VIDA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Aparecida
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV Aparecida
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w334659931.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV BRASIL 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV BRASIL 2
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Canal Futura
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", Canal Futura
 http://caikron.com.br:1935/unipar/tvup/chunklist_w429822267.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", tv infor bahia
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", tv infor bahia
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w111732487.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", K Kids
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", K Kids
 http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", GOSPEL CARTOON
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Filmes 24 Horas
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", Filmes 24 Horas
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1601604961
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Tv Aracati
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", Tv Aracati
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD NEWS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", RECORD NEWS HD
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD NEWS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", RECORD NEWS HD
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV EVANGELIZAR SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV EVANGELIZAR SD
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV MARAJOARA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", TV MARAJOARA
 http://video01.kshost.com.br/tv31966/tv31966/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", AL jazeera
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", AL jazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", PixTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", PixTV
 https://lyqibtcyiz.singularcdn.net.br/pix/pixtv_hi.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TVC Brasil
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", TVC Brasil
 https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Gazeta
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DW (espa&ntilde;ol)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", DW (espa&ntilde;ol)
 https://seccghhisq.singularcdn.net.br/i/dwstream3_live@124409/index_2_av-b.m3u8
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", DW-Deutsch+
@@ -360,17 +357,17 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", MIAMI TV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", SBT GO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", SBT GO
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1278230418_b350000.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Cidadeverde
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", TV Cidadeverde
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Difusora
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", TV Difusora
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", REDE TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", REDE TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", Rede Brasil
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
