@@ -371,3 +371,56 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTA", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
+
+------------------------ TELECINE ---------------------------------------------------------
+
+#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action
+http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Action FHD" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action FHD
+http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action HD
+http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD [Alter]" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult
+http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult FHD" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult FHD
+http://lb.kstream.org/aovivo/FHD_TC_CULT/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult HD
+http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD [Alter]" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun
+http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun FHD" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun FHD
+http://lb.kstream.org/aovivo/FHD_TC_FUN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun HD
+http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD [Alter]" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca
+http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca FHD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca FHD
+http://lb.kstream.org/aovivo/FHD_TC_PIPOCA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca HD
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD [Alter]" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium
+http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium FHD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium FHD
+http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium HD
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD [Alter]" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch
+http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch FHD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch FHD
+http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch HD
+http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD [Alter]" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+
+
