@@ -136,10 +136,13 @@ http://srv.tvprodigital.net:80/davirgrio/110120/4403
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD²
 http://srv.tvprodigital.net:80/davirgrio/110120/20824
+
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD¹
 http://srv.tvprodigital.net:80/davirgrio/110120/6132
+
 #EXTINF:-1 tvg-id="AE" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD²
 http://srv.tvprodigital.net:80/davirgrio/110120/20825
+
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD¹
 http://srv.tvprodigital.net:80/davirgrio/110120/4390
 #EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD H265
