@@ -3832,3 +3832,63 @@ http://srv.tvprodigital.net:80/davirgrio/110120/39391
 http://srv.tvprodigital.net:80/davirgrio/110120/39392
 #EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TC Touch FHD² H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE",TC Touch FHD² H265
 http://srv.tvprodigital.net:80/davirgrio/110120/39393
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/8141
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE",TELECINE ACTION HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20517
+#EXTINF:-1 tvg-id="TelecineAction" tvg-name="TELECINE ACTION HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE",TELECINE ACTION HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6080
+#EXTINF:-1 tvg-id="AE" tvg-name="TELECINE ACTION SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE",TELECINE ACTION SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20518
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE",TELECINE ACTION SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4320
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE",TELECINE CULT FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/8143
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE",TELECINE CULT HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20513
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE",TELECINE CULT HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/10247
+#EXTINF:-1 tvg-id="AE" tvg-name="TELECINE CULT SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE",TELECINE CULT SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20514
+#EXTINF:-1 tvg-id="TelecineCult" tvg-name="TELECINE CULT SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE",TELECINE CULT SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4319
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE",TELECINE FUN FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/11561
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE",TELECINE FUN HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20509
+#EXTINF:-1 tvg-id="TelecineFun" tvg-name="TELECINE FUN HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE",TELECINE FUN HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6079
+#EXTINF:-1 tvg-id="AE" tvg-name="TELECINE FUN SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE",TELECINE FUN SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20510
+#EXTINF:-1 tvg-id="TelecineFun" tvg-name="TELECINE FUN SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE",TELECINE FUN SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4318
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/8144
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20505
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6078
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/39546
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4317
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/8140
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20501
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6077
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="TELECINE PREMIUM SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/39547
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4316
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/25016
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20497
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6076
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/39548
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4315
