@@ -122,17 +122,98 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunkli
 
 -------------------------------DOCUMENTARIOS---------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1101581_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL (ALT)
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TheHistoryChannel" tvg-name="HISTORY CHANNEL SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL SD¹
 http://srv.tvprodigital.net:80/davirgrio/110120/4314
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD¹
+#EXTINF:-1 tvg-id="Animalplanet.br" tvgtvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png"-name="ANIMAL PLANET SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD¹
 http://srv.tvprodigital.net:80/davirgrio/110120/4403
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20824
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6132
+#EXTINF:-1 tvg-id="AE" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20825
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4390
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/11533
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health FHD² H265" tvg-logo="" group-title="FHD² CANAIS EM MANUTENCAO",Discovery Home & Health FHD² H265
+http://srv.tvprodigital.net:80/davirgrio/110120/39333
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20813
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6131
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0040_discovery_hh.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4389
+#EXTINF:-1 tvg-id="AE" tvg-name="DISCOVERY HOME & HELTH SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HELTH SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20814
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID FHD² H265" tvg-logo="" group-title="FHD² CANAIS EM MANUTENCAO",Discovery ID FHD² H265
+http://srv.tvprodigital.net:80/davirgrio/110120/39359
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/11532
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD² H265" tvg-logo="" group-title="FHD² CANAIS EM MANUTENCAO",Discovery Kids FHD² H265
+http://srv.tvprodigital.net:80/davirgrio/110120/39334
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20816
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/7538
+#EXTINF:-1 tvg-id="AE" tvg-name="DISCOVERY KIDS SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20818
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4388
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD  H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD  H265
+http://srv.tvprodigital.net:80/davirgrio/110120/13206
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD² H265" tvg-logo="" group-title="FHD² CANAIS EM MANUTENCAO",Discovery Science FHD² H265
+http://srv.tvprodigital.net:80/davirgrio/110120/39335
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20811
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/7861
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="DOCUMENTARIOS",Discovery Science SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/39572
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/10237
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/11530
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20806
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6130
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/10289
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theather FHD² H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1024px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",Discovery Theather FHD² H265
+http://srv.tvprodigital.net:80/davirgrio/110120/39336
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theather SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1024px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",Discovery Theather SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/39573
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD H265
+http://srv.tvprodigital.net:80/davirgrio/110120/11531
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD² H265" tvg-logo="" group-title="FHD² CANAIS EM MANUTENCAO",Discovery Turbo FHD² H265
+http://srv.tvprodigital.net:80/davirgrio/110120/39337
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20808
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6877
+#EXTINF:-1 tvg-id="AE" tvg-name="DISCOVERY TURBO SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20809
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/4386
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD² H265" tvg-logo="" group-title="FHD² CANAIS EM MANUTENCAO",Discovery World FHD² H265
+http://srv.tvprodigital.net:80/davirgrio/110120/39338
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD²
+http://srv.tvprodigital.net:80/davirgrio/110120/20801
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/6128
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="DOCUMENTARIOS",Discovery World SD²
+http://srv.tvprodigital.net:80/davirgrio/110120/39574
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD SD¹
+http://srv.tvprodigital.net:80/davirgrio/110120/10288
 
 
 --------------------------------------------------------------------------------------------------------------
