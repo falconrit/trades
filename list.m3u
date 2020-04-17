@@ -119,6 +119,134 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunkli
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FOX Premium 1
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b664685_sleng.m3u8
+
+#################################################################################DOCUMENTARIOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLLgCx9.png?1" group-title="DOCUMENTARIOS", [COLOR red]//////////DOCUMENTARIOS//////////[/COLOR]
+http://23.23.1.4
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="DOCUMENTARIOS",ARTE 1
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTARIOS", ANIMAL PLANET
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1865.ts
+#EXTINF:-1 tvg-id="CURTA!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="DOCUMENTARIOS",CURTA! HD
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL"  tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1849.ts
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://puu.sh/reRZC/14ff477422.png" group-title="DOCUMENTARIOS" ,DISCOVERY TURBO
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1845.ts
+#EXTINF:-1 tvg-id="ID: INVESTIGAÇÃO DISCOVERY"  tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY HD
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1795.ts
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE"  tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1846.ts
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION"  tvg-logo="http://i.imgur.com/dN249KE.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION 
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1850.ts
+#EXTINF:-1 tvg-id="DISCOVERY HOME &amp; HEALT" tvg-logo="https://i.imgur.com/OE41Wv0.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALT
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1848.ts
+#EXTINF:-1 tvg-id="DISCOVERY WORD"  tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="DOCUMENTARIOS",DISCOVERY WORD HD
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="DOCUMENTARIOS",E!
+#EXTINF:-1 tvg-id="FISH TV " tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="DOCUMENTARIOS", FISH TV
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1830.ts
+#EXTINF:-1 tvg-id="FISH TV " tvg-logo="https://i.imgur.com/lOmsZDO.png?1" group-title="DOCUMENTARIOS", FOOD NETWORK
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1829.ts
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="DOCUMENTARIOS",LIFETIME HD
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="DOCUMENTARIOS", HISTORY
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1797.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="DOCUMENTARIOS", HISTORY HD
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1796.ts
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="DOCUMENTARIOS", H2
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1805.ts
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1786.ts
+#EXTINF:-1tvg-id="NAT GEO WILD"  tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="DOCUMENTARIOS, NAT GEO WILD
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1787.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD"  tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="DOCUMENTARIOS, NAT GEO WILD
+
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="DOCUMENTARIOS", SYFY 
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1746.ts
+
+#EXTINF:-1 tvg-id="TRUTV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="DOCUMENTARIOS",TRUTV HD
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a/EGih9.jpg" group-title="DOCUMENTARIOS",Stephen Hawking e as Células-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+
+#EXTINF:-1 tvg-logo="https://portal2013br.files.wordpress.com/2015/10/17.jpg?w=731&h=541" group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jHNwjEEsynQ/maxresdefault.jpg" group-title="DOCUMENTARIOS",Telescópio O universo revelado
+http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIOS",10 Coisas que Você Precisa Saber Sobre Perder Peso
+http://archive.org/download/Perder.Peso/10.Things.You.Need.to.Know.About.Losing.Weight.XviD.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",SAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",OURO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%202%20-%20Ouro.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",CAVALO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%203%20-%20Cavalo%20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",ABAIXO DE ZERO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%204%20-%20Abaixo%20De%20Zero.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",MEGAESTRUTURAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",O MUNDO DAS ARMAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",A ASCENSÃO DOS CARNIVOROS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%207%20-%20A%20Ascens%c3%a3o%20dos%20Carn%c3%advoros.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",MONTANHAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",ESTIMULO CEREBRAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%209%20-%20Est%c3%admulo%20Cerebral.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",DESAFIANDO A GRAVIDADE
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",MAQUINA DO TEMPO PORTATIL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",METEOROS MORTAIS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2012%20-%20Meteoros%20Mortais.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",DECODIFICANDO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",SUPERNOVA DE PRATA
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",O SOL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",H2O
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="DOCUMENTARIOS" pltv-subgroup="A GRANDE HISTORIA",FINAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4
+
+#EXTINF:-1 tvg-logo="http://www.estudopratico.com.br/wp-content/uploads/2016/07/o-que-existe-dentro-do-sol.jpg" group-title="DOCUMENTARIOS",Dentro Do Sol
+http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4d072F0f_bE/hqdefault.jpg" group-title="DOCUMENTARIOS",Guerra Do Paraguai A Nossa Grande Guerra
+http://ia801506.us.archive.org/2/items/GuerraDoParaguaiANossaGrandeGuerra/Guerra%20do%20Paraguai%20-%20A%20nossa%20Grande%20Guerra.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AlszA7q.jpg" group-title="DOCUMENTARIOS",A Guerra do Vietnã- Parte 1
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Wc5yYCw.jpg" group-title="DOCUMENTARIOS",A Guerra do Vietnã- Parte 2
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/12/2c/18/122c18ca36405a8d2b659548aae40d97.jpg" group-title="DOCUMENTARIOS",Prisioneiros Do Holocausto 2011
+http://ia601506.us.archive.org/8/items/NationalGeographicPrisioneirosDoHolocausto2011DubladoHolocausto/National%20Geographic%20Prisioneiros%20do%20Holocausto%202011%20Dublado%20holocausto.mp4
+
+#EXTINF:-1 tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_cc4eda6329ce619bbb8dd23c0f51b4cc3b857c13.jpg" group-title="DOCUMENTARIOS",Terceiro Reich: Ascensão
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
+
+#EXTINF:-1 tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_cc4eda6329ce619bbb8dd23c0f51b4cc3b857c13.jpg" group-title="DOCUMENTARIOS",Terceiro Reich: Queda
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j0Eb3moOcjw/hqdefault.jpg" group-title="DOCUMENTARIOS",Pesos Pesados Os Reis Do Ringue
+http://ia601506.us.archive.org/15/items/PesosPesadosOsReisDoRingue/Pesos%20Pesados%20-%20Os%20Reis%20do%20Ringue.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.meucupom.com/uploads/public/55e/49a/9d2/thumb_367_750x488_0_0_crop.jpg" group-title="DOCUMENTARIOS",Febre de Futebol - O Melhor da História do Futebol
+http://archive.org/download/Febre.de.Futebol/Febre.de.Futebol.O.Melhor.da.Historia.do.Futebol.Copas.1904.a.2004.WebRip.mp4
+
+#EXTINF:-1 tvg-logo="http://mlb-d1-p.mlstatic.com/dvd-a-magia-do-churrasco-marcos-bassi-292911-MLB20654399284_042016-O.jpg?square=false" group-title="DOCUMENTARIOS",Magia Do Churrasco
+http://ia601504.us.archive.org/30/items/AssistirMagiaDoChurrascoNacionalOnlineVerFilmeOnline/Assistir%20-%20Magia%20do%20Churrasco%20Nacional%20Online%20-%20Ver%20Filme%20Online.mp4
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1101581_sleng.m3u8
