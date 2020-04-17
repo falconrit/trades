@@ -3732,53 +3732,39 @@ http://fonteangelusiptv.com:25461/movie/LUCELIA/LUCELIA/104126.mp4
 
 ------------------------ TELECINE ---------------------------------------------------------
 
-#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action
-http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Action FHD" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action FHD
-http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Action HD" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action HD
-http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Action HD [Alter]" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="TELECINE",Telecine Action HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult
-http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Cult FHD" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult FHD
-http://lb.kstream.org/aovivo/FHD_TC_CULT/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult HD
-http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD [Alter]" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="TELECINE",Telecine Cult HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun
-http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Fun FHD" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun FHD
-http://lb.kstream.org/aovivo/FHD_TC_FUN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun HD
-http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD [Alter]" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="TELECINE",Telecine Fun HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca
-http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca FHD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca FHD
-http://lb.kstream.org/aovivo/FHD_TC_PIPOCA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca HD
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD [Alter]" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="TELECINE",Telecine Pipoca HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium
-http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Premium FHD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium FHD
-http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium HD
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD [Alter]" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="TELECINE",Telecine Premium HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch
-http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Touch FHD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch FHD
-http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch HD
-http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD [Alter]" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="TELECINE",Telecine Touch HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-
-
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="TELECINE",TELECINE ACTION
+http://p2pbrtv.com:8080/Christian/Christian/145513
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="TELECINE",TELECINE ACTION FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145309
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="TELECINE",TELECINE ACTION HD
+http://p2pbrtv.com:8080/Christian/Christian/145191
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="TELECINE",TELECINE CULT
+http://p2pbrtv.com:8080/Christian/Christian/145514
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="TELECINE",TELECINE CULT FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145310
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="TELECINE",TELECINE CULT HD
+http://p2pbrtv.com:8080/Christian/Christian/145192
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="TELECINE",TELECINE FUN
+http://p2pbrtv.com:8080/Christian/Christian/145515
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="TELECINE",TELECINE FUN FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145311
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="TELECINE",TELECINE FUN HD
+http://p2pbrtv.com:8080/Christian/Christian/145193
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="TELECINE",TELECINE PIPOCA
+http://p2pbrtv.com:8080/Christian/Christian/145516
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="TELECINE",TELECINE PIPOCA FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145312
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="TELECINE",TELECINE PIPOCA HD
+http://p2pbrtv.com:8080/Christian/Christian/145194
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="TELECINE",TELECINE PREMIUM
+http://p2pbrtv.com:8080/Christian/Christian/145517
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="TELECINE",TELECINE PREMIUM FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145313
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="TELECINE",TELECINE PREMIUM HD
+http://p2pbrtv.com:8080/Christian/Christian/145195
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="TELECINE",TELECINE TOUCH
+http://p2pbrtv.com:8080/Christian/Christian/145518
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="TELECINE",TELECINE TOUCH FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145314
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="TELECINE",TELECINE TOUCH HD
+http://p2pbrtv.com:8080/Christian/Christian/145196
