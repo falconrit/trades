@@ -127,6 +127,11 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chun
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b664685_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://p2pbrtv.com:8080/Christian/Christian/145117
+
+--------------------------------------------------------------------------------------------------------------
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", MTV
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
