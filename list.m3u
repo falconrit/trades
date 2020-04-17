@@ -131,6 +131,34 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chun
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
 http://p2pbrtv.com:8080/Christian/Christian/145117
 
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY" tvg-logo="http://grupobrtv.com/logos/thehistorychannelhd.png" group-title="DOCUMENTARIOS",HISTORY
+http://p2pbrtv.com:8080/Christian/Christian/145547
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD H265" tvg-logo="http://grupobrtv.com/logos/thehistorychannelhd.png" group-title="DOCUMENTARIOS",HISTORY FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145275
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://grupobrtv.com/logos/thehistorychannelhd.png" group-title="DOCUMENTARIOS",HISTORY HD
+http://p2pbrtv.com:8080/Christian/Christian/145159
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2" tvg-logo="http://grupobrtv.com/logos/h2hd.png" group-title="DOCUMENTARIOS",HISTORY 2
+http://p2pbrtv.com:8080/Christian/Christian/145463
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 FHD H265" tvg-logo="http://grupobrtv.com/logos/h2hd.png" group-title="DOCUMENTARIOS",HISTORY 2 FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145276
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://grupobrtv.com/logos/h2hd.png" group-title="DOCUMENTARIOS",HISTORY 2 HD
+http://p2pbrtv.com:8080/Christian/Christian/145158
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY" tvg-logo="http://grupobrtv.com/logos/idinvestigacaodiscoveryhd.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY
+http://p2pbrtv.com:8080/Christian/Christian/146248
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD H265" tvg-logo="http://grupobrtv.com/logos/idinvestigacaodiscoveryhd.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/146246
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://grupobrtv.com/logos/idinvestigacaodiscoveryhd.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY HD
+http://p2pbrtv.com:8080/Christian/Christian/146247
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME" tvg-logo="http://grupobrtv.com/logos/lifetimehd.png" group-title="VARIEDADES",LIFETIME
+http://p2pbrtv.com:8080/Christian/Christian/145466
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="http://grupobrtv.com/logos/lifetimehd.png" group-title="VARIEDADES",LIFETIME FHD H265
+http://p2pbrtv.com:8080/Christian/Christian/145278
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://grupobrtv.com/logos/lifetimehd.png" group-title="VARIEDADES",LIFETIME HD
+http://p2pbrtv.com:8080/Christian/Christian/145161
+
 --------------------------------------------------------------------------------------------------------------
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIVERSOS", MTV
